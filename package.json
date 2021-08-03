@@ -1,0 +1,8 @@
+{
+  "name": "rntemplate",
+  "version": "0.0.5",
+  "description": "React Native Template",
+  "repository": "https://github.com/sodip101/rntemplate.git",
+  "author": "Sodip Thapa <sodip.thapa@gurzu.com>",
+  "license": "MIT"
+}
